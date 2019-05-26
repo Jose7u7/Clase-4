@@ -54,7 +54,7 @@ p {
 
 /* Navbar */
 #navbar {
-  -background: url('/Proyecto/imagenes/foto2.jpg') no-repeat center center/cover;*/
+  -background: url('imagenes/foto2.jpg') no-repeat center center/cover;*/
   color: #fff;
   overflow: auto;
 }
@@ -122,7 +122,7 @@ margin-left: auto;
 /* Paso 6 Bienvenida */
 
 #welcome {
-  background: url('/imagenes/foto3.jpg') no-repeat center center/cover;
+  background: url('imagenes/foto3.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
